@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **React, Redux, Node.js**
+- 💬 Ask me about **JavaScript, Java, Python, React, Redux, Node.js**
 
 - 📫 How to reach me **zhangshumin.work@gmail.com**
 
