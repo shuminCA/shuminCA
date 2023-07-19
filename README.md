@@ -1,4 +1,4 @@
-![desk 1](https://github.com/shuminCA/shuminCA/assets/89661340/16c5f080-608c-45fa-a8fd-91a6d6af34cb)
+![desk 1](https://github.com/shuminCA/shuminCA/assets/89661340/689eff23-cae3-4bdc-a442-25fd0c94ce8c)
 <h1 align="center">Hi 👋, I'm Shumin Zhang</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt = "girl coding" width="350px" src="https://github.com/shuminCA/shuminCA/assets/89661340/68138a32-290b-4f2a-a8bf-a381e04a2319">
