@@ -1,5 +1,7 @@
+![desk 1](https://github.com/shuminCA/shuminCA/assets/89661340/16c5f080-608c-45fa-a8fd-91a6d6af34cb)
 <h1 align="center">Hi 👋, I'm Shumin Zhang</h1>
 <h3 align="center">A passionate full stack developer</h3>
+<img align="right" alt = "girl coding" width="350px" src="https://github.com/shuminCA/shuminCA/assets/89661340/68138a32-290b-4f2a-a8bf-a381e04a2319">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuminca&label=Profile%20views&color=0e75b6&style=flat" alt="shuminca" /> </p>
 
