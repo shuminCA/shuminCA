@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [SVCSA](http://www.svcsa.org/)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Three.js**
 
 - 💬 Ask me about **JavaScript, Java, Python, React, Redux, Node.js**
 
