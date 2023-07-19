@@ -1,4 +1,4 @@
-![a_upscayl_4x_realesrgan-x4plus-anime](https://github.com/shuminCA/shuminCA/assets/89661340/359852eb-3118-4af5-bb75-88b310c67e7b)
+![desk 1](https://github.com/shuminCA/shuminCA/assets/89661340/074de637-4c6a-4d0e-8d91-bc4ccaa194f1)
 
 <h1 align="center">Hi 👋, I'm Shumin Zhang</h1>
 <h3 align="center">A passionate full stack developer</h3>
