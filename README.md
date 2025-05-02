@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuminca&label=Profile%20views&color=0e75b6&style=flat" alt="shuminca" /> </p>
 
-- 🔭 I’m currently working on [SVCSA](http://www.svcsa.org/)
-
 - 🌱 I’m currently learning **Three.js**
 
 - 💬 Ask me about **JavaScript, Java, Python, React, Redux, Node.js**
