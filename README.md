@@ -88,15 +88,3 @@ Software Engineer building GenAI, agentic workflows, and AI infrastructure
   </a>
 </p>
 <br/>
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuminCA&show_icons=true&locale=en&hide_border=true" alt="Shumin's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuminCA&hide_border=true" alt="Shumin's GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shuminCA&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Shumin's top languages" />
-</p>
